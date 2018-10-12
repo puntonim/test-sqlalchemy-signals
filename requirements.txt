@@ -1,0 +1,13 @@
+Flask==0.12.4
+Flask-SQLAlchemy==2.3.2
+#Flask-Alembic==2.0.1
+SQLAlchemy==1.2.8
+#SQLAlchemy-Continuum==1.3.4
+#sqlalchemy-mptt==0.2.2
+#SQLAlchemy-Utils==0.33.3
+blinker==1.4  # Required by Flask for using signals
+psycopg2==2.7.4
+psycopg2-binary==2.7.5
+
+ipdb
+pdbpp
